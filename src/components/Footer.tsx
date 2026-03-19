@@ -13,21 +13,7 @@ export default function Footer() {
               Transforming Minds. Elevating Businesses.
             </p>
           </div>
-
-          <div className="flex items-center space-x-6">
-            <a href="#" className="text-zinc-400 hover:text-primary transition-colors">
-              <Linkedin size={20} />
-            </a>
-            <a href="#" className="text-zinc-400 hover:text-primary transition-colors">
-              <Twitter size={20} />
-            </a>
-            <a href="#" className="text-zinc-400 hover:text-primary transition-colors">
-              <Instagram size={20} />
-            </a>
-            <a href="#" className="text-zinc-400 hover:text-primary transition-colors">
-              <Youtube size={20} />
-            </a>
-          </div>
+        
         </div>
 
         <div className="mt-12 pt-8 border-t border-zinc-50 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-zinc-400">
