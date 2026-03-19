@@ -30,7 +30,7 @@ export default function Booking() {
                   </div>
                   <div>
                     <p className="text-white/50 text-sm uppercase tracking-wider">Call Us</p>
-                    <p className="font-medium">+27 (0) 11 555 0123</p>
+                    <p className="font-medium">+27 (0) 684627522  </p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4">
